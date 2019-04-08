@@ -1358,7 +1358,10 @@ GNMA iShares GNMA Bond ETF G N N 100 Y N
 GNMK GenMark Diagnostics, Inc. - Common Stock G N N 100 N N
 GNMX Aevi Genomic Medicine, Inc. - Common Stock G N D 100 N N
 GNPX Genprex, Inc. - Common Stock S N N 100 N N
+<<<<<<< HEAD
 GNRX VanEck Vectors Generic Drugs ETF G N N 100 Y N
+=======
+>>>>>>> 3c29451f7daa8ddea496f33d444acd381094cbaa
 GNTX Gentex Corporation - Common Stock Q N N 100 N N
 GNTY Guaranty Bancshares, Inc. - Common Stock Q N N 100 N N
 GNUS Genius Brands International, Inc. - Common Stock S N N 100 N N
