@@ -1400,10 +1400,6 @@ GNMA|iShares GNMA Bond ETF|G|N|N|100|Y|N
 GNMK|GenMark Diagnostics, Inc. - Common Stock|G|N|N|100|N|N
 GNMX|Aevi Genomic Medicine, Inc. - Common Stock|G|N|D|100|N|N
 GNPX|Genprex, Inc. - Common Stock|S|N|N|100|N|N
-<<<<<<< HEAD
-GNRX|VanEck Vectors Generic Drugs ETF|G|N|N|100|Y|N
-=======
->>>>>>> 3c29451f7daa8ddea496f33d444acd381094cbaa
 GNTX|Gentex Corporation - Common Stock|Q|N|N|100|N|N
 GNTY|Guaranty Bancshares, Inc. - Common Stock|Q|N|N|100|N|N
 GNUS|Genius Brands International, Inc. - Common Stock|S|N|N|100|N|N
@@ -1612,7 +1608,7 @@ IESC|IES Holdings, Inc. - Common Stock|G|N|N|100|N|N
 IEUS|iShares MSCI Europe Small-Cap ETF|G|N|N|100|Y|N
 IFEU|iShares FTSE EPRA/NAREIT Europe Index Fund|G|N|N|100|Y|N
 IFGL|iShares FTSE EPRA/NAREIT Global Real Estate ex-U.S. Index Fund|G|N|N|100|Y|N
-IFMK|iFresh Inc. - Common Stock|S|N|N|100|N|N
+IFMK|iFresh Inc. - Common Stock|S|N|D|100|N|N
 IFRX|InflaRx N.V. - Common Stock|Q|N|N|100|N|N
 IFV|First Trust Dorsey Wright International Focus 5 ETF|G|N|N|100|Y|N
 IGF|iShares Global Infrastructure ETF|G|N|N|100|Y|N
@@ -3461,8 +3457,4 @@ ZXYZ.A|Nasdaq Symbology Test Common Stock|Q|Y|N|100||N
 ZXZZT|NASDAQ TEST STOCK|G|Y|N|100||N
 ZYNE|Zynerba Pharmaceuticals, Inc. - Common Stock|G|N|N|100|N|N
 ZYXI|Zynex, Inc. - Common Stock|S|N|N|100|N|N
-<<<<<<< HEAD
-File Creation Time: 0405201921:31|||||||
-=======
-File Creation Time: 0408201903:03|||||||
->>>>>>> 3c29451f7daa8ddea496f33d444acd381094cbaa
+File Creation Time: 0408201921:31|||||||
