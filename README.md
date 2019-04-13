@@ -5,7 +5,9 @@ This is the work for our final paper for w266 Natural Language Process using Dee
 Contributors:
 
 Shahbakht Hamdani
+
 Luis Villlarreal
+
 Ashesh Choudhury
 
 ## Causal Analysis between Public and Market Sentiment: a Predictive Model for Individual Stock Performance.
